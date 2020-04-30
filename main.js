@@ -3,4 +3,3 @@ $('.slider').slick({
   slideToShow: 1,
   slideToScroll: 1
 });
-$(".video-play").modalVideo();
